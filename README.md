@@ -17,7 +17,8 @@ I'm a Math & Computer Science student at the University of Toronto, passionate a
 - **Other**: RESTful API, Testing (Unit, Integration, End-to-End)
 
 ## Projects
-- [Project 1](https://github.com/PIAO-A-PIAO/Postcards): Virtual Postcard App
+- [Project 1](https://github.com/PIAO-A-PIAO/Postcards-Frontend): Virtual Postcard App Frontend
+- [Project 1.1](https://github.com/PIAO-A-PIAO/Postcards-Backend): Virtual Postcard App Backend
 - [Project 2](https://github.com/CSC207-UofT/course-project-207-project-dream-team): UofT Course Scheduling Project
 
 ## Work Experience
