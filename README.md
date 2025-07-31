@@ -23,7 +23,9 @@ I'm a Math & Computer Science student at the University of Toronto, passionate a
 
 ## Work Experience
 
-### Full Stack Developer Intern @ Knowquest (Jan. 2024 - Present)
+### Software Engineer @ Digital Shovel (Nov. 2024 - Present)
+
+### Full Stack Developer Intern @ Knowquest (Jan. 2024 - Apr. 2024)
 - Led development of mobile application version for feedback/rating platform using MERN stack, conducting rigorous testing and code reviews.
 
 ### Freelance Web Developer @ MyRide901 (Jan. 2024 - Feb. 2024)
